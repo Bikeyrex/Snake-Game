@@ -1,5 +1,5 @@
 /**
- * Snake game created with plain JavaScript by Ibrahim fariat.
+ * Snake game created with plain JavaScript by Bekewei Egbekun and Peter Yibaebele.
  * Follow me if you like it!
  **/
 
